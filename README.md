@@ -441,7 +441,7 @@
 <br>
 
 <p align="center" style="font-size:16px;">
-  I'm <strong>MARIE-LYNNE</strong>, a enthusiastic advocate of the <strong>STEAM</strong> 💨:<br>
+  I'm <strong>Deepankar Srigyan</strong>, a enthusiastic advocate of the <strong>STEAM</strong> 💨:<br>
   🔬 <em>Science</em>   •  💡 <em>Technology</em>  •   🏗 <em>Engineering</em>  •  🎨 <em>Art</em>  •  📈 <em>Math</em>
 </p>
 
@@ -693,4 +693,4 @@ My GitHub primarily reflects my experimentation with new technologies, hobby pro
 <br>
 <br>
 
-<p align=center> <sub> Created with 🫀 and 🧠 by Marie-Lynne Block &nbsp;&nbsp;&nbsp; ©2024 </sub> </p>
+
