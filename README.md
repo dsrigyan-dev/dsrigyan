@@ -1,22 +1,30 @@
 [![GitHub ReadMe Header](https://i.gifer.com/75ez.gif)](https://github.com/MarieLynneBlock/animated-banner_github)
-## Hej there!! I am Deepankar Srigyan.
+## Hi there!! I am Deepankar Srigyan.
 
 
 <!-- Stats Dashboard -->
 <h3 align="left">Languages and Tools:</h3>
 <table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Programming Language:</td>
+
+        <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Customer Relationship Management (CRM):</td>
         <td>
-            <img height="40" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFD43B"/>
-            <img height="40" src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=FFFFFF"/>
-            <img height="40" src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=FFFFFF"/>
-            <img height="40" src="https://img.shields.io/badge/-VBA-217346?style=flat&logo=microsoftexcel&logoColor=FFFFFF"/>
-            <img height="40" src="https://img.shields.io/badge/-Windows%20Scripting-0078D6?style=flat&logo=powershell&logoColor=FFFFFF"/>
+            <img height="40" src="https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=FFFFFF"/>
+            <img height="40" src="https://img.shields.io/badge/-SOQL-00A1E0?style=flat&logo=salesforce&logoColor=FFFFFF"/>
         </td>
         <td></td>
     </tr>
-    <tr>
+
+        <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Data Interaction Tools:</td>
+        <td>
+            <img height="40" src="https://img.shields.io/badge/-Tableau Prep-00A1E0?style=flat&logo=salesforce&logoColor=FFFFFF"/>
+            <img height="40" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=FFFFFF"/>
+            </td>
+        <td></td>
+    </tr>
+
+        <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Visualization:</td>
         <td>
             <img height="40" src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=FFFFFF"/>
@@ -28,7 +36,8 @@
         </td>
         <td></td>
     </tr>
-    <tr>
+
+        <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Statistical Analysis:</td>
         <td>
             <img height="40" src="https://img.shields.io/badge/-SAS-1E4F8A?style=flat&logo=sas&logoColor=FFFFFF"/>
@@ -38,6 +47,21 @@
         </td>
         <td></td>
     </tr>
+
+        <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Programming Language:</td>
+        <td>
+            <img height="40" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFD43B"/>
+            <img height="40" src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=FFFFFF"/>
+            <img height="40" src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=FFFFFF"/>
+            <img height="40" src="https://img.shields.io/badge/-VBA-217346?style=flat&logo=microsoftexcel&logoColor=FFFFFF"/>
+            <img height="40" src="https://img.shields.io/badge/-Windows%20Scripting-0078D6?style=flat&logo=powershell&logoColor=FFFFFF"/>
+        </td>
+        <td></td>
+    </tr>
+     
+
+    
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database Management:</td>
         <td>
@@ -50,35 +74,41 @@
         </td>
         <td></td>
     </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Customer Relationship Management (CRM):</td>
-        <td>
-            <img height="40" src="https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=FFFFFF"/>
-            <img height="40" src="https://img.shields.io/badge/-SOQL-00A1E0?style=flat&logo=salesforce&logoColor=FFFFFF"/>
-            <img height="40" src="https://img.shields.io/badge/-HubSpot-FE7335?style=flat&logo=hubspot&logoColor=FFFFFF"/>
-        </td>
-        <td></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Data Interaction Tool:</td>
-        <td>
-            <img height="40" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=FFFFFF"/>
-        </td>
-        <td></td>
-    </tr>
+
+    
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Marketing Automation:</td>
         <td>
-            <img height="40" src="https://img.shields.io/badge/-Marketo-5C4C9F?style=flat&logo=adobe&logoColor=FFFFFF"/>
-            <img height="40" src="https://img.shields.io/badge/-Mailchimp-F7C948?style=flat&logo=mailchimp&logoColor=FFFFFF"/>
+            <img height="40" src="https://img.shields.io/badge/-Unica-5C4C9F?style=flat&logo=adobe&logoColor=FFFFFF"/>
         </td>
         <td></td>
     </tr>
+
+        <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Project Management:</td>
+        <td>
+            <img height="40" src="https://img.shields.io/badge/-Jira-5C4C9F?style=flat&logo=adobe&logoColor=FFFFFF"/>
+        </td>
+        <td></td>
+    </tr>
+
+            <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td>
+            <img height="40" src="https://img.shields.io/badge/-Github-5C4C9F?style=flat&logo=adobe&logoColor=FFFFFF"/>
+        </td>
+        <td></td>
+    </tr>
+    
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">MS-Office:</td>
         <td>
             <img height="40" src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=FFFFFF"/>
             <img height="40" src="https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoftword&logoColor=FFFFFF"/>
+            <img height="40" src="https://img.shields.io/badge/-Power Point-2B579A?style=flat&logo=microsoftword&logoColor=FFFFFF"/>
+            <img height="40" src="https://img.shields.io/badge/-Access-2B579A?style=flat&logo=microsoftword&logoColor=FFFFFF"/>
+            <img height="40" src="https://img.shields.io/badge/-Outlook-2B579A?style=flat&logo=microsoftword&logoColor=FFFFFF"/>
+            <img height="40" src="https://img.shields.io/badge/-Project-2B579A?style=flat&logo=microsoftword&logoColor=FFFFFF"/>
         </td>
         <td></td>
     </tr>
